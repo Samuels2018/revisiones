@@ -1,0 +1,6 @@
+[05-Feb-2016 22:33:47 America/Costa_Rica] PHP Warning:  require(../../../conf/conf.php): failed to open stream: No such file or directory in /home/aprendum/public_html/jam/include/mail/prueba.php on line 3
+[05-Feb-2016 22:33:47 America/Costa_Rica] PHP Warning:  require(../../../conf/conf.php): failed to open stream: No such file or directory in /home/aprendum/public_html/jam/include/mail/prueba.php on line 3
+[05-Feb-2016 22:33:47 America/Costa_Rica] PHP Fatal error:  require(): Failed opening required '../../../conf/conf.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aprendum/public_html/jam/include/mail/prueba.php on line 3
+[05-Feb-2016 22:33:49 America/Costa_Rica] PHP Warning:  require(../../../conf/conf.php): failed to open stream: No such file or directory in /home/aprendum/public_html/jam/include/mail/prueba.php on line 3
+[05-Feb-2016 22:33:49 America/Costa_Rica] PHP Warning:  require(../../../conf/conf.php): failed to open stream: No such file or directory in /home/aprendum/public_html/jam/include/mail/prueba.php on line 3
+[05-Feb-2016 22:33:49 America/Costa_Rica] PHP Fatal error:  require(): Failed opening required '../../../conf/conf.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aprendum/public_html/jam/include/mail/prueba.php on line 3
